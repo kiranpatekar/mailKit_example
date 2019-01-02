@@ -4,6 +4,10 @@ simple .net core project to demostrate use of mailkit using .net core 2.1 depend
 
 postman call 
 
+
+
+
+
 https://localhost:5001/api/Values/ContactUs
 
 {
